@@ -7,11 +7,29 @@
 	"items": [
 		
 			{
+				"id": "http://kolomeetz.micro.blog/2023/03/20/individuals-and-interactions.html",
+				"title": "Individuals and interactions over processes and tools",
+				"content_html": "<blockquote>\n<p>We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:</p>\n<ul>\n<li>Individuals and interactions over processes and tools</li>\n<li>Working software over comprehensive documentation</li>\n<li>Customer collaboration over contract negotiation</li>\n<li>Responding to change over following a plan</li>\n</ul>\n<p>That is, while there is value in the items on the right, we value the items on the left more.</p>\n</blockquote>\n<p>👉 <a href=\"http://agilemanifesto.org/\">Manifesto for Agile Software Development</a>, 2001</p>\n<p>The whole agile movement became a joke soon after that, but these values are still pure gold.</p>\n",
+				"content_text": "> We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:\n>\n> - Individuals and interactions over processes and tools\n> - Working software over comprehensive documentation\n> - Customer collaboration over contract negotiation\n> - Responding to change over following a plan\n> \n> That is, while there is value in the items on the right, we value the items on the left more.\n\n👉 [Manifesto for Agile Software Development](http://agilemanifesto.org/), 2001\n\nThe whole agile movement became a joke soon after that, but these values are still pure gold.\n",
+				"date_published": "2023-03-20T11:45:13+01:00",
+				"url": "https://kolomeetz.micro.blog/2023/03/20/individuals-and-interactions.html",
+				"tags": ["Product engineering"]
+			},
+			{
+				"id": "http://kolomeetz.micro.blog/2023/03/20/john-carmack-on.html",
+				"title": "John Carmack on product engineering",
+				"content_html": "<p>John Carmack <a href=\"https://twitter.com/ID_AA_Carmack/status/1637087219591659520\">shared a thread</a> from his DM, where he replied to &ldquo;why bother learn any software engineering if AI will make the future job obsolete&rdquo;.</p>\n<p>&ldquo;If you build full &ldquo;product skills&rdquo; and use the best tools for the job, which today might be hand coding, but later may be AI guiding, you will probably be fine.</p>\n<p>Software is just a tool to help accomplish something for people — many programmers never understood that. Keep your eyes on the delivered value, and don&rsquo;t over focus on the specifics of the tools.&rdquo;</p>\n",
+				"content_text": "John Carmack [shared a thread](https://twitter.com/ID_AA_Carmack/status/1637087219591659520) from his DM, where he replied to \"why bother learn any software engineering if AI will make the future job obsolete\".\n\n\"If you build full \"product skills\" and use the best tools for the job, which today might be hand coding, but later may be AI guiding, you will probably be fine.\n\nSoftware is just a tool to help accomplish something for people — many programmers never understood that. Keep your eyes on the delivered value, and don't over focus on the specifics of the tools.\"\n",
+				"date_published": "2023-03-20T11:33:23+01:00",
+				"url": "https://kolomeetz.micro.blog/2023/03/20/john-carmack-on.html",
+				"tags": ["Product engineering"]
+			},
+			{
 				"id": "http://kolomeetz.micro.blog/2023/03/20/does-it-work.html",
 				
 				"content_html": "<p>Does it work with code blocks?</p>\n<pre tabindex=\"0\"><code>collections.defaultdict(list)\r\n</code></pre><p>It does. Alright, let&rsquo;s iterate.</p>\n",
 				"content_text": "Does it work with code blocks? \r\n\r\n```\r\ncollections.defaultdict(list)\r\n```\r\n\r\nIt does. Alright, let's iterate.\n",
-				"date_published": "2023-03-20T09:26:48+00:00",
+				"date_published": "2023-03-20T10:26:48+01:00",
 				"url": "https://kolomeetz.micro.blog/2023/03/20/does-it-work.html"
 			},
 			{
@@ -19,7 +37,7 @@
 				"title": "`kawa` to switch input source",
 				"content_html": "<p>Tiny tool to switch between input sources with user-defined shortcuts.</p>\n<p><a href=\"https://github.com/hatashiro/kawa\">github.com/hatashiro/kawa</a></p>\n",
 				"content_text": "Tiny tool to switch between input sources with user-defined shortcuts.\n\n[github.com/hatashiro/kawa](https://github.com/hatashiro/kawa)\n",
-				"date_published": "2023-02-01T17:44:34+00:00",
+				"date_published": "2023-02-01T18:44:34+01:00",
 				"url": "https://kolomeetz.micro.blog/2023/02/01/tags-tools-kawa.html",
 				"tags": ["tools"]
 			}
